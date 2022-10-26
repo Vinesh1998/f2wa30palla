@@ -40,7 +40,6 @@ router.get('/', function(req,res,next) {
 
         round: roundFunction,
 
-       
 
      });
 
